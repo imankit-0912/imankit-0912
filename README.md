@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-<h1 align="center">Hi, I'm Ankit Kumar Karn</h1>
-<h3 align="center">CSE {Data Science}′26 || Competitive Programmer || C || C++|| Python ||</h3>
+<h2 align="center">Hi, I'm Ankit Kumar Karn</h1>
+<h3 align="center">CSE {Data Science}′26 Competitive Programmer </h3>
  <img alt="Coder GIF" align="right"height=200 width=250 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <p align="left"></p>
 <h3 align="left">Languages & Tools:</h3>
